@@ -1,0 +1,1 @@
+[![CI](https://github.com/EwgeniyNikol/arraybuffer_converter/actions/workflows/ci.yml/badge.svg)](https://github.com/EwgeniyNikol/arraybuffer_converter/actions/workflows/ci.yml)
